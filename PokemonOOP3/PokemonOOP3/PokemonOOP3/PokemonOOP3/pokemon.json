@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Squirtle",
+    "HP": 45,
+    "Attack": 49,
+    "moves": [
+      {
+        "name": "Splash",
+        "type": "Water",
+        "power": 45
+      },
+      {
+        "name": "Water Fall",
+        "type": "Water",
+        "power": 55
+      }
+    ]
+  },
+  {
+    "name": "Charmander",
+    "HP": 45,
+    "Attack": 49,
+    "moves": [
+      {
+        "name": "Fire Wall",
+        "type": "Fire",
+        "power": 45
+      },
+      {
+        "name": "Flamethrow",
+        "type": "Fire",
+        "power": 55
+      }
+    ]
+  },
+  {
+    "name": "Bulbasaur",
+    "HP": 40,
+    "Attack": 45,
+    "moves": [
+      {
+        "name": "Vine Whip",
+        "type": "Grass",
+        "power": 45
+      },
+      {
+        "name": "Razor Leaf",
+        "type": "Grass",
+        "power": 55
+      }
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "HP": 35,
+    "Attack": 55,
+    "moves": [
+      {
+        "name": "Thunder Shock",
+        "type": "Electric",
+        "power": 40
+      },
+      {
+        "name": "Quick Attack",
+        "type": "Normal",
+        "power": 50
+      }
+    ]
+  },
+  {
+    "name": "Eevee",
+    "HP": 55,
+    "Attack": 35,
+    "moves": [
+      {
+        "name": "Tackle",
+        "type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Swift",
+        "type": "Normal",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "name": "Jigglypuff",
+    "HP": 115,
+    "Attack": 45,
+    "moves": [
+      {
+        "name": "Pound",
+        "type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Body Slam",
+        "type": "Normal",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "name": "Meowth",
+    "HP": 40,
+    "Attack": 45,
+    "moves": [
+      {
+        "name": "Scratch",
+        "type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Pay Day",
+        "type": "Normal",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "name": "Psyduck",
+    "HP": 50,
+    "Attack": 52,
+    "moves": [
+      {
+        "name": "Water Gun",
+        "type": "Water",
+        "power": 40
+      },
+      {
+        "name": "Confusion",
+        "type": "Psychic",
+        "power": 50
+      }
+    ]
+  }
+]
